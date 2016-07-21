@@ -1,2 +1,1 @@
-# MachineLearningFromZero
-Machine Learning From Scratch
+Deep Learning From Scratch
